@@ -1,3 +1,4 @@
 # Thesis
-Extract Newspaper headlines using python
+Extract Newspaper headlines using python.
+
 Manually training Builder set using Java
